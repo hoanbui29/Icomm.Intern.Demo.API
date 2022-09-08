@@ -1,0 +1,214 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/hoan/Documents/Learning/C#/Icomm.Intern.Demo.API/Icomm.Intern.Demo.API/Icomm.Intern.Demo.API.csproj": {}
+  },
+  "projects": {
+    "/Users/hoan/Documents/Learning/C#/Icomm.Intern.Demo.API/Icomm.Intern.Demo.API/Icomm.Intern.Demo.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hoan/Documents/Learning/C#/Icomm.Intern.Demo.API/Icomm.Intern.Demo.API/Icomm.Intern.Demo.API.csproj",
+        "projectName": "Icomm.Intern.Demo.API",
+        "projectPath": "/Users/hoan/Documents/Learning/C#/Icomm.Intern.Demo.API/Icomm.Intern.Demo.API/Icomm.Intern.Demo.API.csproj",
+        "packagesPath": "/Users/hoan/.nuget/packages/",
+        "outputPath": "/Users/hoan/Documents/Learning/C#/Icomm.Intern.Demo.API/Icomm.Intern.Demo.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hoan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "http://proget.icomm.vn/nuget/icomm-packages/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "AutoWrapper.Core": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "BigDb.CRUD": {
+              "target": "Package",
+              "version": "[0.0.1, )"
+            },
+            "EasyCaching.InMemory": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "EasyCaching.Interceptor.Castle": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "ElasticSearch": {
+              "target": "Package",
+              "version": "[1.4.2, )"
+            },
+            "ElasticSearch.Client": {
+              "target": "Package",
+              "version": "[0.1.88, )"
+            },
+            "Elasticsearch.Net": {
+              "target": "Package",
+              "version": "[7.17.4, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[9.5.4, )"
+            },
+            "HttpReports": {
+              "target": "Package",
+              "version": "[2.6.3, )"
+            },
+            "Icomm.AspNetCore": {
+              "target": "Package",
+              "version": "[0.2.0.1, )"
+            },
+            "Icomm.Configs.Abstract": {
+              "target": "Package",
+              "version": "[0.1.4, )"
+            },
+            "Icomm.Configs.DI.Autofac": {
+              "target": "Package",
+              "version": "[0.0.2.8, )"
+            },
+            "Icomm.Configs.Providers.HttpProvider": {
+              "target": "Package",
+              "version": "[0.1.4, )"
+            },
+            "Icomm.Hosting.Abstract": {
+              "target": "Package",
+              "version": "[0.2.0.1, )"
+            },
+            "Icomm.Logs": {
+              "target": "Package",
+              "version": "[0.1.4, )"
+            },
+            "Icomm.RabbitMQ": {
+              "target": "Package",
+              "version": "[0.2.3.1, )"
+            },
+            "MagicOnion.Hosting": {
+              "target": "Package",
+              "version": "[3.0.13, )"
+            },
+            "MicroElements.Swashbuckle.FluentValidation": {
+              "target": "Package",
+              "version": "[5.7.0, )"
+            },
+            "Microsoft.AspNetCore.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Hosting.Server.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "NEST": {
+              "target": "Package",
+              "version": "[7.17.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.11.7, )"
+            },
+            "Serilog.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.2, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.3.2, )"
+            },
+            "Swashbuckle.AspNetCore.Filters": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Swashbuckle.AspNetCore.Filters.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Swashbuckle.AspNetCore.Newtonsoft": {
+              "target": "Package",
+              "version": "[6.3.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

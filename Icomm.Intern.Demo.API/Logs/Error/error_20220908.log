@@ -1,0 +1,275 @@
+2022-09-08T09:30:22.2319470+07:00 [INF] (Icomm.Program) Starting web host
+2022-09-08T09:30:22.7529770+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:7053"
+2022-09-08T09:30:22.7540440+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5075"
+2022-09-08T09:30:22.7542190+07:00 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2022-09-08T09:30:22.7544460+07:00 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2022-09-08T09:30:22.7545040+07:00 [INF] (Microsoft.Hosting.Lifetime) Content root path: "/Users/hoan/Documents/Learning/C#/Icomm.Intern.Demo.API/Icomm.Intern.Demo.API"
+2022-09-08T09:30:22.9111740+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 GET https://localhost:7053/swagger - -
+2022-09-08T09:30:22.9340930+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 GET https://localhost:7053/swagger - - - 301 0 - 23.6008ms
+2022-09-08T09:30:22.9360840+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 GET https://localhost:7053/swagger/index.html - -
+2022-09-08T09:30:22.9541440+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 GET https://localhost:7053/swagger/index.html - - - 200 - text/html;charset=utf-8 18.0431ms
+2022-09-08T09:30:22.9688630+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 GET https://localhost:7053/swagger/swagger-ui.css - -
+2022-09-08T09:30:22.9697490+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 GET https://localhost:7053/swagger/swagger-ui-bundle.js - -
+2022-09-08T09:30:23.1865760+07:00 [INF] (Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware) Sending file. Request path: '"/swagger-ui.css"'. Physical path: '"N/A"'
+2022-09-08T09:30:23.1910440+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 GET https://localhost:7053/swagger/swagger-ui.css - - - 200 143632 text/css 221.9124ms
+2022-09-08T09:30:23.1914290+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 GET https://localhost:7053/swagger/swagger-ui-standalone-preset.js - -
+2022-09-08T09:30:23.2173090+07:00 [INF] (Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware) Sending file. Request path: '"/swagger-ui-bundle.js"'. Physical path: '"N/A"'
+2022-09-08T09:30:23.2174770+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 GET https://localhost:7053/swagger/swagger-ui-bundle.js - - - 200 1092889 application/javascript 247.7192ms
+2022-09-08T09:30:23.2485270+07:00 [INF] (Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware) Sending file. Request path: '"/swagger-ui-standalone-preset.js"'. Physical path: '"N/A"'
+2022-09-08T09:30:23.2487130+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 GET https://localhost:7053/swagger/swagger-ui-standalone-preset.js - - - 200 337162 application/javascript 57.2586ms
+2022-09-08T09:30:23.2832130+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 GET https://localhost:7053/swagger/v1/swagger.json - -
+2022-09-08T09:30:23.2956790+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 GET https://localhost:7053/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 12.4892ms
+2022-09-08T09:30:23.2956830+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 GET https://localhost:7053/swagger/favicon-32x32.png - -
+2022-09-08T09:30:23.2977520+07:00 [INF] (Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware) Sending file. Request path: '"/favicon-32x32.png"'. Physical path: '"N/A"'
+2022-09-08T09:30:23.2984050+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 GET https://localhost:7053/swagger/favicon-32x32.png - - - 200 628 image/png 2.7122ms
+2022-09-08T10:00:54.2594730+07:00 [INF] (Icomm.Program) Starting web host
+2022-09-08T10:00:54.7098190+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:7053"
+2022-09-08T10:00:54.7110660+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5075"
+2022-09-08T10:00:54.7114910+07:00 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2022-09-08T10:00:54.7117660+07:00 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2022-09-08T10:00:54.7119730+07:00 [INF] (Microsoft.Hosting.Lifetime) Content root path: "/Users/hoan/Documents/Learning/C#/Icomm.Intern.Demo.API/Icomm.Intern.Demo.API"
+2022-09-08T10:00:54.7678310+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 GET https://localhost:7053/swagger/index.html - -
+2022-09-08T10:00:54.8066580+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 GET https://localhost:7053/swagger/index.html - - - 200 - text/html;charset=utf-8 39.2121ms
+2022-09-08T10:00:54.9198420+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 GET https://localhost:7053/swagger/v1/swagger.json - -
+2022-09-08T10:00:54.9929770+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 GET https://localhost:7053/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 73.1285ms
+2022-09-08T10:02:15.8288460+07:00 [INF] (Icomm.Program) Starting web host
+2022-09-08T10:02:16.2946610+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:7053"
+2022-09-08T10:02:16.2958780+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5075"
+2022-09-08T10:02:16.2960780+07:00 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2022-09-08T10:02:16.2962460+07:00 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2022-09-08T10:02:16.2964480+07:00 [INF] (Microsoft.Hosting.Lifetime) Content root path: "/Users/hoan/Documents/Learning/C#/Icomm.Intern.Demo.API/Icomm.Intern.Demo.API"
+2022-09-08T10:02:16.4082350+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 GET https://localhost:7053/swagger/index.html - -
+2022-09-08T10:02:16.4443320+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 GET https://localhost:7053/swagger/index.html - - - 200 - text/html;charset=utf-8 36.4984ms
+2022-09-08T10:02:16.5262950+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 GET https://localhost:7053/swagger/v1/swagger.json - -
+2022-09-08T10:02:16.6041600+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 GET https://localhost:7053/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 77.8589ms
+2022-09-08T10:02:45.5735230+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 POST https://localhost:7053/api/intern/v1/student/add-new-student application/json-patch+json 95
+2022-09-08T10:02:45.6100620+07:00 [INF] (Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware) No CORS policy found for the specified request.
+2022-09-08T10:02:45.6127670+07:00 [INF] (Microsoft.AspNetCore.Routing.EndpointMiddleware) Executing endpoint '"Icomm.API.Intern.v1.StudentController.AddStudent (Icomm.Intern.Demo.API)"'
+2022-09-08T10:02:45.6236150+07:00 [INF] (Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker) Route matched with "{action = \"AddStudent\", controller = \"Student\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Icomm.API.Intern.DTO.Entities.Student] AddStudent(Icomm.API.Intern.DTO.Entities.Student)" on controller "Icomm.API.Intern.v1.StudentController" ("Icomm.Intern.Demo.API").
+2022-09-08T10:02:45.6317700+07:00 [INF] (Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker) Executed action "Icomm.API.Intern.v1.StudentController.AddStudent (Icomm.Intern.Demo.API)" in 5.8431ms
+2022-09-08T10:02:45.6332220+07:00 [INF] (Microsoft.AspNetCore.Routing.EndpointMiddleware) Executed endpoint '"Icomm.API.Intern.v1.StudentController.AddStudent (Icomm.Intern.Demo.API)"'
+2022-09-08T10:02:45.6469810+07:00 [INF] (Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor) Executing "ObjectResult", writing value of type '"AutoWrapper.Wrappers.ApiProblemDetailsMember+DebugExceptionetails"'.
+2022-09-08T10:02:45.6750050+07:00 [ERR] (AutoWrapper.AutoWrapperMiddleware) [500]: None of the constructors found with 'Autofac.Core.Activators.Reflection.DefaultConstructorFinder' on type 'Icomm.API.Intern.Data.StudentRepository' can be invoked with the available services and parameters:
+Cannot resolve parameter 'Nest.IElasticClient client' of constructor 'Void .ctor(Nest.IElasticClient)'.
+Autofac.Core.DependencyResolutionException: An exception was thrown while activating Icomm.API.Intern.Data.StudentRepository.
+ ---> Autofac.Core.DependencyResolutionException: None of the constructors found with 'Autofac.Core.Activators.Reflection.DefaultConstructorFinder' on type 'Icomm.API.Intern.Data.StudentRepository' can be invoked with the available services and parameters:
+Cannot resolve parameter 'Nest.IElasticClient client' of constructor 'Void .ctor(Nest.IElasticClient)'.
+   at Autofac.Core.Activators.Reflection.ReflectionActivator.GetAllBindings(ConstructorBinder[] availableConstructors, IComponentContext context, IEnumerable`1 parameters)
+   at Autofac.Core.Activators.Reflection.ReflectionActivator.ActivateInstance(IComponentContext context, IEnumerable`1 parameters)
+   at Autofac.Core.Activators.Reflection.ReflectionActivator.<ConfigurePipeline>b__11_0(ResolveRequestContext ctxt, Action`1 next)
+   at Autofac.Core.Resolving.Middleware.DelegateMiddleware.Execute(ResolveRequestContext context, Action`1 next)
+   at Autofac.Core.Resolving.Pipeline.ResolvePipelineBuilder.<>c__DisplayClass14_0.<BuildPipeline>b__1(ResolveRequestContext ctxt)
+   at Autofac.Core.Resolving.Middleware.DisposalTrackingMiddleware.Execute(ResolveRequestContext context, Action`1 next)
+   at Autofac.Core.Resolving.Pipeline.ResolvePipelineBuilder.<>c__DisplayClass14_0.<BuildPipeline>b__1(ResolveRequestContext ctxt)
+   at Autofac.Core.Resolving.Middleware.ActivatorErrorHandlingMiddleware.Execute(ResolveRequestContext context, Action`1 next)
+   --- End of inner exception stack trace ---
+   at Autofac.Core.Resolving.Middleware.ActivatorErrorHandlingMiddleware.Execute(ResolveRequestContext context, Action`1 next)
+   at Autofac.Core.Resolving.Pipeline.ResolvePipelineBuilder.<>c__DisplayClass14_0.<BuildPipeline>b__1(ResolveRequestContext ctxt)
+   at Autofac.Core.Pipeline.ResolvePipeline.Invoke(ResolveRequestContext ctxt)
+   at Autofac.Core.Resolving.Middleware.RegistrationPipelineInvokeMiddleware.Execute(ResolveRequestContext context, Action`1 next)
+   at Autofac.Core.Resolving.Pipeline.ResolvePipelineBuilder.<>c__DisplayClass14_0.<BuildPipeline>b__1(ResolveRequestContext ctxt)
+   at Autofac.Core.Resolving.Middleware.SharingMiddleware.<>c__DisplayClass5_0.<Execute>b__0()
+   at Autofac.Core.Lifetime.LifetimeScope.CreateSharedInstance(Guid id, Func`1 creator)
+   at Autofac.Core.Lifetime.LifetimeScope.CreateSharedInstance(Guid primaryId, Nullable`1 qualifyingId, Func`1 creator)
+   at Autofac.Core.Resolving.Middleware.SharingMiddleware.Execute(ResolveRequestContext context, Action`1 next)
+   at Autofac.Core.Resolving.Pipeline.ResolvePipelineBuilder.<>c__DisplayClass14_0.<BuildPipeline>b__1(ResolveRequestContext ctxt)
+   at Autofac.Core.Resolving.Middleware.ScopeSelectionMiddleware.Execute(ResolveRequestContext context, Action`1 next)
+   at Autofac.Core.Resolving.Pipeline.ResolvePipelineBuilder.<>c__DisplayClass14_0.<BuildPipeline>b__1(ResolveRequestContext ctxt)
+   at Autofac.Core.Resolving.Middleware.CircularDependencyDetectorMiddleware.Execute(ResolveRequestContext context, Action`1 next)
+   at Autofac.Core.Resolving.Pipeline.ResolvePipelineBuilder.<>c__DisplayClass14_0.<BuildPipeline>b__1(ResolveRequestContext ctxt)
+   at Autofac.Core.Pipeline.ResolvePipeline.Invoke(ResolveRequestContext ctxt)
+   at Autofac.Core.Resolving.ResolveOperation.GetOrCreateInstance(ISharingLifetimeScope currentOperationScope, ResolveRequest request)
+   at Autofac.Core.Resolving.ResolveOperation.ExecuteOperation(ResolveRequest request)
+   at Autofac.Core.Resolving.ResolveOperation.Execute(ResolveRequest request)
+   at Autofac.Core.Lifetime.LifetimeScope.ResolveComponent(ResolveRequest request)
+   at Autofac.ResolutionExtensions.TryResolveService(IComponentContext context, Service service, IEnumerable`1 parameters, Object& instance)
+   at Autofac.ResolutionExtensions.ResolveOptionalService(IComponentContext context, Service service, IEnumerable`1 parameters)
+   at Autofac.ResolutionExtensions.ResolveOptional(IComponentContext context, Type serviceType, IEnumerable`1 parameters)
+   at Autofac.ResolutionExtensions.ResolveOptional(IComponentContext context, Type serviceType)
+   at Autofac.Extensions.DependencyInjection.AutofacServiceProvider.GetService(Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method353(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass7_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at AutoWrapper.Base.WrapperBase.InvokeAsyncBase(HttpContext context, AutoWrapperMembers awm)
+2022-09-08T10:02:45.6797610+07:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:7053/api/intern/v1/student/add-new-student  {
+  "name": "Hoan",
+  "age": 22,
+  "phone": "123123123131",
+  "address": "dsafda",
+  "gpa": 6
+} Responded with [500] in 89ms
+2022-09-08T10:02:45.6800210+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 POST https://localhost:7053/api/intern/v1/student/add-new-student application/json-patch+json 95 - 500 4864 application/problem+json;+charset=utf-8 106.5907ms
+2022-09-08T10:07:18.1747940+07:00 [INF] (Icomm.Program) Starting web host
+2022-09-08T10:07:18.6137000+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:7053"
+2022-09-08T10:07:18.6148170+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5075"
+2022-09-08T10:07:18.6149930+07:00 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2022-09-08T10:07:18.6154640+07:00 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2022-09-08T10:07:18.6155470+07:00 [INF] (Microsoft.Hosting.Lifetime) Content root path: "/Users/hoan/Documents/Learning/C#/Icomm.Intern.Demo.API/Icomm.Intern.Demo.API"
+2022-09-08T10:07:18.7051980+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 GET https://localhost:7053/swagger/index.html - -
+2022-09-08T10:07:18.7408620+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 GET https://localhost:7053/swagger/index.html - - - 200 - text/html;charset=utf-8 36.2117ms
+2022-09-08T10:07:18.8231840+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 GET https://localhost:7053/swagger/v1/swagger.json - -
+2022-09-08T10:07:18.8967390+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 GET https://localhost:7053/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 73.5527ms
+2022-09-08T10:07:21.5902320+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 POST https://localhost:7053/api/intern/v1/student/add-new-student application/json-patch+json 95
+2022-09-08T10:07:21.6248190+07:00 [INF] (Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware) No CORS policy found for the specified request.
+2022-09-08T10:07:21.6275070+07:00 [INF] (Microsoft.AspNetCore.Routing.EndpointMiddleware) Executing endpoint '"Icomm.API.Intern.v1.StudentController.AddStudent (Icomm.Intern.Demo.API)"'
+2022-09-08T10:07:21.6396360+07:00 [INF] (Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker) Route matched with "{action = \"AddStudent\", controller = \"Student\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Icomm.API.Intern.DTO.Entities.Student] AddStudent(Icomm.API.Intern.DTO.Entities.Student)" on controller "Icomm.API.Intern.v1.StudentController" ("Icomm.Intern.Demo.API").
+2022-09-08T10:07:42.9200210+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 GET https://localhost:7053/swagger/index.html - -
+2022-09-08T10:07:42.9233420+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 GET https://localhost:7053/swagger/index.html - - - 200 - text/html;charset=utf-8 3.2177ms
+2022-09-08T10:07:43.0094100+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 GET https://localhost:7053/swagger/v1/swagger.json - -
+2022-09-08T10:07:43.0135140+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 GET https://localhost:7053/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 4.1180ms
+2022-09-08T10:07:50.0444260+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 POST https://localhost:7053/api/intern/v1/student/add-new-student application/json-patch+json 95
+2022-09-08T10:07:50.0449580+07:00 [INF] (Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware) No CORS policy found for the specified request.
+2022-09-08T10:07:50.0451240+07:00 [INF] (Microsoft.AspNetCore.Routing.EndpointMiddleware) Executing endpoint '"Icomm.API.Intern.v1.StudentController.AddStudent (Icomm.Intern.Demo.API)"'
+2022-09-08T10:07:50.0453590+07:00 [INF] (Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker) Route matched with "{action = \"AddStudent\", controller = \"Student\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Icomm.API.Intern.DTO.Entities.Student] AddStudent(Icomm.API.Intern.DTO.Entities.Student)" on controller "Icomm.API.Intern.v1.StudentController" ("Icomm.Intern.Demo.API").
+2022-09-08T10:08:11.9301740+07:00 [INF] (Icomm.Program) Starting web host
+2022-09-08T10:08:12.3825000+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:7053"
+2022-09-08T10:08:12.3838730+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5075"
+2022-09-08T10:08:12.3841250+07:00 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2022-09-08T10:08:12.3846630+07:00 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2022-09-08T10:08:12.3847310+07:00 [INF] (Microsoft.Hosting.Lifetime) Content root path: "/Users/hoan/Documents/Learning/C#/Icomm.Intern.Demo.API/Icomm.Intern.Demo.API"
+2022-09-08T10:08:12.4774740+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 GET https://localhost:7053/swagger/index.html - -
+2022-09-08T10:08:12.5149730+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 GET https://localhost:7053/swagger/index.html - - - 200 - text/html;charset=utf-8 38.2646ms
+2022-09-08T10:08:12.5892680+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 GET https://localhost:7053/swagger/v1/swagger.json - -
+2022-09-08T10:08:12.6640500+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 GET https://localhost:7053/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 74.7814ms
+2022-09-08T10:08:15.4944590+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 POST https://localhost:7053/api/intern/v1/student/add-new-student application/json-patch+json 95
+2022-09-08T10:08:15.5331340+07:00 [INF] (Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware) No CORS policy found for the specified request.
+2022-09-08T10:08:15.5349990+07:00 [INF] (Microsoft.AspNetCore.Routing.EndpointMiddleware) Executing endpoint '"Icomm.API.Intern.v1.StudentController.AddStudent (Icomm.Intern.Demo.API)"'
+2022-09-08T10:08:15.5459170+07:00 [INF] (Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker) Route matched with "{action = \"AddStudent\", controller = \"Student\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Icomm.API.Intern.DTO.Entities.Student] AddStudent(Icomm.API.Intern.DTO.Entities.Student)" on controller "Icomm.API.Intern.v1.StudentController" ("Icomm.Intern.Demo.API").
+2022-09-08T10:08:31.1086510+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 GET https://localhost:7053/swagger/index.html - -
+2022-09-08T10:08:31.1095800+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 GET https://localhost:7053/swagger/index.html - - - 200 - text/html;charset=utf-8 0.9446ms
+2022-09-08T10:08:31.2065680+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 GET https://localhost:7053/swagger/v1/swagger.json - -
+2022-09-08T10:08:31.2079750+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 GET https://localhost:7053/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 1.4400ms
+2022-09-08T10:08:36.3624230+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 POST https://localhost:7053/api/intern/v1/student/add-new-student application/json-patch+json 90
+2022-09-08T10:08:36.3629270+07:00 [INF] (Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware) No CORS policy found for the specified request.
+2022-09-08T10:08:36.3630960+07:00 [INF] (Microsoft.AspNetCore.Routing.EndpointMiddleware) Executing endpoint '"Icomm.API.Intern.v1.StudentController.AddStudent (Icomm.Intern.Demo.API)"'
+2022-09-08T10:08:36.3637960+07:00 [INF] (Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker) Route matched with "{action = \"AddStudent\", controller = \"Student\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Icomm.API.Intern.DTO.Entities.Student] AddStudent(Icomm.API.Intern.DTO.Entities.Student)" on controller "Icomm.API.Intern.v1.StudentController" ("Icomm.Intern.Demo.API").
+2022-09-08T10:08:54.7843950+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 GET https://localhost:7053/swagger/index.html - -
+2022-09-08T10:08:54.7849150+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 GET https://localhost:7053/swagger/index.html - - - 200 - text/html;charset=utf-8 1.4290ms
+2022-09-08T10:08:54.8705150+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 GET https://localhost:7053/swagger/v1/swagger.json - -
+2022-09-08T10:08:54.8715910+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 GET https://localhost:7053/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 1.0945ms
+2022-09-08T10:08:58.9406710+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 POST https://localhost:7053/api/intern/v1/student/add-new-student application/json-patch+json 95
+2022-09-08T10:08:58.9420290+07:00 [INF] (Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware) No CORS policy found for the specified request.
+2022-09-08T10:08:58.9423030+07:00 [INF] (Microsoft.AspNetCore.Routing.EndpointMiddleware) Executing endpoint '"Icomm.API.Intern.v1.StudentController.AddStudent (Icomm.Intern.Demo.API)"'
+2022-09-08T10:08:58.9425680+07:00 [INF] (Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker) Route matched with "{action = \"AddStudent\", controller = \"Student\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Icomm.API.Intern.DTO.Entities.Student] AddStudent(Icomm.API.Intern.DTO.Entities.Student)" on controller "Icomm.API.Intern.v1.StudentController" ("Icomm.Intern.Demo.API").
+2022-09-08T10:10:15.4587400+07:00 [INF] (Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor) Executing "ObjectResult", writing value of type '"Icomm.API.Intern.DTO.Entities.Student"'.
+2022-09-08T10:10:15.4645640+07:00 [INF] (Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor) Executing "ObjectResult", writing value of type '"Icomm.API.Intern.DTO.Entities.Student"'.
+2022-09-08T10:10:15.4645640+07:00 [INF] (Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor) Executing "ObjectResult", writing value of type '"Icomm.API.Intern.DTO.Entities.Student"'.
+2022-09-08T10:10:15.4838840+07:00 [INF] (Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker) Executed action "Icomm.API.Intern.v1.StudentController.AddStudent (Icomm.Intern.Demo.API)" in 99118.3222ms
+2022-09-08T10:10:15.4838960+07:00 [INF] (Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker) Executed action "Icomm.API.Intern.v1.StudentController.AddStudent (Icomm.Intern.Demo.API)" in 119936.1036ms
+2022-09-08T10:10:15.4838940+07:00 [INF] (Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker) Executed action "Icomm.API.Intern.v1.StudentController.AddStudent (Icomm.Intern.Demo.API)" in 76539.265ms
+2022-09-08T10:10:15.4851180+07:00 [INF] (Microsoft.AspNetCore.Routing.EndpointMiddleware) Executed endpoint '"Icomm.API.Intern.v1.StudentController.AddStudent (Icomm.Intern.Demo.API)"'
+2022-09-08T10:10:15.4851200+07:00 [INF] (Microsoft.AspNetCore.Routing.EndpointMiddleware) Executed endpoint '"Icomm.API.Intern.v1.StudentController.AddStudent (Icomm.Intern.Demo.API)"'
+2022-09-08T10:10:15.4851180+07:00 [INF] (Microsoft.AspNetCore.Routing.EndpointMiddleware) Executed endpoint '"Icomm.API.Intern.v1.StudentController.AddStudent (Icomm.Intern.Demo.API)"'
+2022-09-08T10:10:15.5417710+07:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:7053/api/intern/v1/student/add-new-student  {
+  "name": "Hoan",
+  "age": 22,
+  "phone": "123123123131",
+  "address": "dsafda",
+  "gpa": 6
+} Responded with [200] in 120026ms
+2022-09-08T10:10:15.5417710+07:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:7053/api/intern/v1/student/add-new-student  {
+  "name": "string",
+  "age": 0,
+  "phone": "string",
+  "address": "string",
+  "gpa": 0
+} Responded with [200] in 99178ms
+2022-09-08T10:10:15.5417890+07:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:7053/api/intern/v1/student/add-new-student  {
+  "name": "Hoan",
+  "age": 22,
+  "phone": "123123123131",
+  "address": "dsafda",
+  "gpa": 6
+} Responded with [200] in 76599ms
+2022-09-08T10:10:15.5427030+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 POST https://localhost:7053/api/intern/v1/student/add-new-student application/json-patch+json 95 - 200 293 application/json 120048.8032ms
+2022-09-08T10:10:15.5427030+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 POST https://localhost:7053/api/intern/v1/student/add-new-student application/json-patch+json 90 - 200 288 application/json 99180.6596ms
+2022-09-08T10:10:15.5427030+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 POST https://localhost:7053/api/intern/v1/student/add-new-student application/json-patch+json 95 - 200 292 application/json 76602.3613ms
+2022-09-08T10:12:46.3639340+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 POST https://localhost:7053/api/intern/v1/student/add-new-student application/json-patch+json 95
+2022-09-08T10:12:46.3928920+07:00 [INF] (Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware) No CORS policy found for the specified request.
+2022-09-08T10:12:46.3932380+07:00 [INF] (Microsoft.AspNetCore.Routing.EndpointMiddleware) Executing endpoint '"Icomm.API.Intern.v1.StudentController.AddStudent (Icomm.Intern.Demo.API)"'
+2022-09-08T10:12:46.3934520+07:00 [INF] (Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker) Route matched with "{action = \"AddStudent\", controller = \"Student\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Icomm.API.Intern.DTO.Entities.Student] AddStudent(Icomm.API.Intern.DTO.Entities.Student)" on controller "Icomm.API.Intern.v1.StudentController" ("Icomm.Intern.Demo.API").
+2022-09-08T10:20:51.0804130+07:00 [INF] (Icomm.Program) Starting web host
+2022-09-08T10:20:51.6288760+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:7053"
+2022-09-08T10:20:51.6298210+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5075"
+2022-09-08T10:20:51.6299890+07:00 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2022-09-08T10:20:51.6302130+07:00 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2022-09-08T10:20:51.6302710+07:00 [INF] (Microsoft.Hosting.Lifetime) Content root path: "/Users/hoan/Documents/Learning/C#/Icomm.Intern.Demo.API/Icomm.Intern.Demo.API"
+2022-09-08T10:20:51.6851080+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 GET https://localhost:7053/swagger/index.html - -
+2022-09-08T10:20:51.7212100+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 GET https://localhost:7053/swagger/index.html - - - 200 - text/html;charset=utf-8 36.4542ms
+2022-09-08T10:20:51.8068140+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 GET https://localhost:7053/swagger/v1/swagger.json - -
+2022-09-08T10:20:51.8961810+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 GET https://localhost:7053/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 89.3581ms
+2022-09-08T10:21:02.5667170+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 POST https://localhost:7053/api/intern/v1/class/create-class application/json-patch+json 22
+2022-09-08T10:21:02.5908580+07:00 [INF] (Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware) No CORS policy found for the specified request.
+2022-09-08T10:21:02.5931040+07:00 [INF] (Microsoft.AspNetCore.Routing.EndpointMiddleware) Executing endpoint '"Icomm.API.Intern.v1.ClassController.CreateClass (Icomm.Intern.Demo.API)"'
+2022-09-08T10:21:02.6043440+07:00 [INF] (Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker) Route matched with "{action = \"CreateClass\", controller = \"Class\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Icomm.API.Intern.DTO.Entities.Class] CreateClass(Icomm.API.Intern.DTO.Entities.Class)" on controller "Icomm.API.Intern.v1.ClassController" ("Icomm.Intern.Demo.API").
+2022-09-08T10:21:02.9823160+07:00 [INF] (Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor) Executing "ObjectResult", writing value of type '"Icomm.API.Intern.DTO.Entities.Class"'.
+2022-09-08T10:21:03.0059250+07:00 [INF] (Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker) Executed action "Icomm.API.Intern.v1.ClassController.CreateClass (Icomm.Intern.Demo.API)" in 399.6877ms
+2022-09-08T10:21:03.0069940+07:00 [INF] (Microsoft.AspNetCore.Routing.EndpointMiddleware) Executed endpoint '"Icomm.API.Intern.v1.ClassController.CreateClass (Icomm.Intern.Demo.API)"'
+2022-09-08T10:21:03.0638600+07:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:7053/api/intern/v1/class/create-class  {
+  "name": "Lop 10"
+} Responded with [200] in 486ms
+2022-09-08T10:21:03.0646800+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 POST https://localhost:7053/api/intern/v1/class/create-class application/json-patch+json 22 - 200 210 application/json 498.0631ms
+2022-09-08T10:22:10.6836730+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 POST https://localhost:7053/api/intern/v1/class/create-class application/json-patch+json 22
+2022-09-08T10:22:10.6875490+07:00 [INF] (Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware) No CORS policy found for the specified request.
+2022-09-08T10:22:10.6882200+07:00 [INF] (Microsoft.AspNetCore.Routing.EndpointMiddleware) Executing endpoint '"Icomm.API.Intern.v1.ClassController.CreateClass (Icomm.Intern.Demo.API)"'
+2022-09-08T10:22:10.6889710+07:00 [INF] (Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker) Route matched with "{action = \"CreateClass\", controller = \"Class\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Icomm.API.Intern.DTO.Entities.Class] CreateClass(Icomm.API.Intern.DTO.Entities.Class)" on controller "Icomm.API.Intern.v1.ClassController" ("Icomm.Intern.Demo.API").
+2022-09-08T10:22:48.3858820+07:00 [INF] (Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor) Executing "ObjectResult", writing value of type '"Icomm.API.Intern.DTO.Entities.Class"'.
+2022-09-08T10:22:48.3878350+07:00 [INF] (Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker) Executed action "Icomm.API.Intern.v1.ClassController.CreateClass (Icomm.Intern.Demo.API)" in 37698.6047ms
+2022-09-08T10:22:48.3879240+07:00 [INF] (Microsoft.AspNetCore.Routing.EndpointMiddleware) Executed endpoint '"Icomm.API.Intern.v1.ClassController.CreateClass (Icomm.Intern.Demo.API)"'
+2022-09-08T10:22:48.3883750+07:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:7053/api/intern/v1/class/create-class  {
+  "name": "Lop 11"
+} Responded with [200] in 37702ms
+2022-09-08T10:22:48.3884940+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 POST https://localhost:7053/api/intern/v1/class/create-class application/json-patch+json 22 - 200 210 application/json 37704.8674ms
+2022-09-08T10:22:58.4231200+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 POST https://localhost:7053/api/intern/v1/class/create-class application/json-patch+json 22
+2022-09-08T10:22:58.4238850+07:00 [INF] (Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware) No CORS policy found for the specified request.
+2022-09-08T10:22:58.4243670+07:00 [INF] (Microsoft.AspNetCore.Routing.EndpointMiddleware) Executing endpoint '"Icomm.API.Intern.v1.ClassController.CreateClass (Icomm.Intern.Demo.API)"'
+2022-09-08T10:22:58.4245260+07:00 [INF] (Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker) Route matched with "{action = \"CreateClass\", controller = \"Class\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Icomm.API.Intern.DTO.Entities.Class] CreateClass(Icomm.API.Intern.DTO.Entities.Class)" on controller "Icomm.API.Intern.v1.ClassController" ("Icomm.Intern.Demo.API").
+2022-09-08T10:25:32.0418280+07:00 [INF] (Icomm.Program) Starting web host
+2022-09-08T10:25:32.4392020+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:7053"
+2022-09-08T10:25:32.4400890+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5075"
+2022-09-08T10:25:32.4402370+07:00 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2022-09-08T10:25:32.4403880+07:00 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2022-09-08T10:25:32.4404250+07:00 [INF] (Microsoft.Hosting.Lifetime) Content root path: "/Users/hoan/Documents/Learning/C#/Icomm.Intern.Demo.API/Icomm.Intern.Demo.API"
+2022-09-08T10:25:32.5768790+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 GET https://localhost:7053/swagger/index.html - -
+2022-09-08T10:25:32.6155300+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 GET https://localhost:7053/swagger/index.html - - - 200 - text/html;charset=utf-8 39.0440ms
+2022-09-08T10:25:32.7022220+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 GET https://localhost:7053/swagger/v1/swagger.json - -
+2022-09-08T10:25:32.7909390+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 GET https://localhost:7053/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 88.7077ms
+2022-09-08T10:25:39.3690090+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request starting HTTP/1.1 POST https://localhost:7053/api/intern/v1/class/create-class application/json-patch+json 18
+2022-09-08T10:25:39.3934840+07:00 [INF] (Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware) No CORS policy found for the specified request.
+2022-09-08T10:25:39.3958710+07:00 [INF] (Microsoft.AspNetCore.Routing.EndpointMiddleware) Executing endpoint '"Icomm.API.Intern.v1.ClassController.CreateClass (Icomm.Intern.Demo.API)"'
+2022-09-08T10:25:39.4062440+07:00 [INF] (Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker) Route matched with "{action = \"CreateClass\", controller = \"Class\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Icomm.API.Intern.DTO.Entities.Class] CreateClass(Icomm.API.Intern.DTO.Entities.Class)" on controller "Icomm.API.Intern.v1.ClassController" ("Icomm.Intern.Demo.API").
+2022-09-08T10:25:41.8245120+07:00 [INF] (Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker) Executed action "Icomm.API.Intern.v1.ClassController.CreateClass (Icomm.Intern.Demo.API)" in 2416.7047ms
+2022-09-08T10:25:41.8287490+07:00 [INF] (Microsoft.AspNetCore.Routing.EndpointMiddleware) Executed endpoint '"Icomm.API.Intern.v1.ClassController.CreateClass (Icomm.Intern.Demo.API)"'
+2022-09-08T10:25:41.8393100+07:00 [INF] (Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor) Executing "ObjectResult", writing value of type '"AutoWrapper.Wrappers.ApiProblemDetailsMember+DebugExceptionetails"'.
+2022-09-08T10:25:41.8579720+07:00 [ERR] (AutoWrapper.AutoWrapperMiddleware) [500]: Couldn't create class'
+System.InvalidOperationException: Couldn't create class'
+   at Icomm.API.Intern.Data.ClassRepository.CreateClass(Class request, CancellationToken cancellationToken) in /Users/hoan/Documents/Learning/C#/Icomm.Intern.Demo.API/Icomm.Intern.Demo.API/API/Intern/Data/ClassRepository.cs:line 20
+   at Icomm.API.Intern.v1.ClassController.CreateClass(Class request) in /Users/hoan/Documents/Learning/C#/Icomm.Intern.Demo.API/Icomm.Intern.Demo.API/API/Intern/v1/ClassController.cs:line 22
+   at lambda_method351(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at AutoWrapper.Base.WrapperBase.InvokeAsyncBase(HttpContext context, AutoWrapperMembers awm)
+2022-09-08T10:25:41.8607630+07:00 [INF] (AutoWrapper.AutoWrapperMiddleware) Source:[::1] Request: POST https localhost:7053/api/intern/v1/class/create-class  {
+  "name": "11"
+} Responded with [500] in 2482ms
+2022-09-08T10:25:41.8615490+07:00 [INF] (Microsoft.AspNetCore.Hosting.Diagnostics) Request finished HTTP/1.1 POST https://localhost:7053/api/intern/v1/class/create-class application/json-patch+json 18 - 500 2738 application/problem+json;+charset=utf-8 2492.5765ms
